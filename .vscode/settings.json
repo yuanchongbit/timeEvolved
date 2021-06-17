@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/home/libyc/anaconda3/envs/tf2-gpu/bin/python"
+}
