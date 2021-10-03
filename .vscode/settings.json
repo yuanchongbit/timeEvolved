@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "C:\\Developer\\Anaconda3\\envs\\tf2.4\\python.exe",
     "jupyter.jupyterServerType": "local"
+=======
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/home/libyc/anaconda3/envs/tf2-gpu/bin/python"
+>>>>>>> 2e87473014363f3cd41b632fa5ea978cfc222a02
 }
