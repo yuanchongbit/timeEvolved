@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-# ignore IDA
-# */*/IDA/
-
-=======
 # ignore data directory
 data/
 malconv_submit/
 
 # ignore csv file
 *.csv
->>>>>>> 2e87473014363f3cd41b632fa5ea978cfc222a02
