@@ -1,6 +1,0 @@
-# ignore data directory
-data/
-malconv_submit/
-
-# ignore csv file
-*.csv
